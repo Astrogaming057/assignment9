@@ -1,0 +1,12 @@
+{
+  "name": "Meow",
+  "version": "1.0.0",
+  "description": "Meow",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "dependencies": {
+    "express": "^4.22.3"
+  }
+}
